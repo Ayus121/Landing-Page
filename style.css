@@ -100,6 +100,7 @@ nav ul ul ul li {
     background: transparent;
     color: white;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .world .eng:hover {
@@ -146,4 +147,8 @@ nav ul ul ul li {
     font-size: 15px;
     border: 1px solid #5a313a;
     border-radius: 45px;
+    cursor: pointer;
+}
+.acc:hover {
+    background: #7e4853;
 }
